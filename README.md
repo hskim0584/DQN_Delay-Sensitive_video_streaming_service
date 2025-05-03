@@ -23,4 +23,4 @@ pip install numpy==1.21.5
 ```
 
 ## RUN
-python main.py
+python DQN.py
